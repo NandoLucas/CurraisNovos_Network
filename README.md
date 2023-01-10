@@ -44,7 +44,7 @@ As métricas que serão analisadas são: grau, proximidade, autovetor e intermed
 
 A seguir temos a imagem que mostra o resultado para cada métrica, ao lado temos uma legenda de cor, do azul (valor baixo) ao vermelho (valor alto), a partir dela podemos visualizar o resultado para cada métrica como podemos ver a seguir:
 
-<p align='center'><img src='./images/graficos_metricas_inico.png'></p>
+<p align='center'><img src='./images/graficos_metricas_inico.jpg'></p>
 
 ## 🔔 Centralidade
 
